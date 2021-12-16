@@ -21,7 +21,7 @@ JkdYaf 一个简单、高性能常驻内存的PHP框架。
 
 ### [详细文档](http://jkdyaf.crytjy.com/)
 
-### [JkdYaf](https://github.com/crytjy/JkdYaf)
+### [JkdYaf GitHub](https://github.com/crytjy/JkdYaf)
 
 ### 特性
 
