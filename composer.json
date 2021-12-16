@@ -11,7 +11,7 @@
             "email": "13723794923@163.com"
         }
     ],
-    "minimum-stability": "dev-main",
+    "minimum-stability": "v2.2.2",
     "require": {
         "php": ">=7.0"
     }
