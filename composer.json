@@ -4,7 +4,7 @@
     "keywords": ["JkdYaf", "JkdYafLibrary", "Yaf", "JKD"],
     "homepage": "https://jkdyaf.crytjy.com/",
     "type": "library",
-    "license": "Apache License",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "JKDCRY",
